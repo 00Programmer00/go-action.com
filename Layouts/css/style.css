@@ -6,9 +6,18 @@
     float: left;
 }
 
-#logo{
+#left-side{
     float: left;
     font-size: 100px;
+    margin-left: 150px;
+    margin-top: 40px;
+
+}
+
+#left-side p{
+    width: 550px;
+    font-size: 20px;
+    text-align: justify;
 }
 
 #registrationForm input{
@@ -44,6 +53,7 @@
 
 #password{
     width: 525px;
+
 }
 
 #Forgot{
