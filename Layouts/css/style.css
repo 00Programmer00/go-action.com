@@ -1,0 +1,97 @@
+#registration{
+    position: absolute;
+    right: 0;
+    text-align: center;
+    margin-top: 30px;
+    float: left;
+}
+
+#logo{
+    float: left;
+    font-size: 100px;
+}
+
+#registrationForm input{
+    margin-bottom: 10px;
+}
+
+.Button1{
+    font-size: 18px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.Button1:hover{
+    cursor: pointer;
+
+}
+
+#registration input{
+    font-size: 18px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+
+#registration input:focus {
+    outline: none;
+}
+
+#password{
+    width: 525px;
+}
+
+#Forgot{
+    background-color: white;
+    border: none;
+
+    color: darkgray;
+    font-size: 18px;
+}
+
+#Forgot:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: black;
+}
+
+#visability:hover{
+    cursor: pointer;
+}
+
+#SignIn{
+    font-size: 18px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #2aabd2;
+}
+
+.text{
+    font-size: 16px;
+    text-align: center;
+
+}
+
+#recovery{
+    font-size: 18px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 10px;
+
+}
+
+#Join{
+    background-color: #b92c28;
+}
+
+.social:hover{
+    cursor: pointer;
+}
